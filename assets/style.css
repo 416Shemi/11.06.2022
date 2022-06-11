@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.Home {
+    width: 100%;
+    height: 100vh;
+
+}
+body{
+    background-image: url("https://preview.uideck.com/items/saaspal/assets/img/hero/hero-bg.svg");
+   
+    background-repeat: no-repeat;
+}
+header ul li a{
+    color: #fff !important ;
+}
+header ul li:hover{
+    border-bottom: 2px solid #ffc107;
+}
+header span{
+    color: #fff;
+   
+}
+
+ .text1 h1 {
+    text-align: center;
+    color: #fff;
+    font-size: 58px;
+   padding-top: 30px;
+}
+.text1 p{
+  padding-left: 80px;
+    color: #fff;
+    font-size: 20px;
+    padding-top: 30px;
+}
+.img1{
+    padding-top: 50px;
+}
+.text1 .btn1{
+    margin-left: 200px;
+    margin-top: 150px;
+    font-size: 30px;
+    border-radius: 50px;
+    border: 2px solid #fff;
+    padding: 20px;
+  
+    
+}
+.page2{
+    background-image: url("https://www.sitesaga.com/wp-content/uploads/2020/04/whats-website-beginners-guide.jpg");
+    height: 50vh;
+    width: 50%;
+}
+.Features .card{
+    
+}
+.page2 .text2 {
+  padding-left: 50%;
+}
+.page3{
+    background-image: url("https://99designs-start-attachments.imgix.net/alchemy-pictures/2016%2F01%2F29%2F06%2F52%2F16%2F2574220d-7737-4c39-a562-8e153a5d1497%2Fwebsite-hero3.png?auto=format&ch=Width%2CDPR&fm=png&w=824&h=457");
+    width: 100%;
+    height: 100vh;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.page3 .img3{
+    height: 50vh;
+    width: 50%;
+  padding-left: 900px;
+  padding-top: 300px;
+  
+}
+.page3 .text3{
+    padding-left: 300px;
+    font-size: 20px;
+    width: 63%;
+    color: saddlebrown;
+}
+.page3 .text3 h2{
+    color: blue;
+}
+.page4{
+    width: 100%;
+    height: 100vh;
+    background-image: url("https://loopsol.com/wp-content/uploads/2018/11/which-web-design-platform-is-right-for-you-5e4d59fb941b9-1520x800-1.png");
+}
+.page4 .slider{
+    padding-top: 500px;
+}
